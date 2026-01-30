@@ -1,4 +1,4 @@
-'README.md' Written by ArCom Corporation, more information go to htttps://arcom-corporation-web.onrender.com.
+'README.md' Written by ArCom Corporation, more information go to https://arcom-corporation-web.onrender.com.
 
 
 Perfect — here’s a polished, English-language `README.md` for your project **SpectrOS 1 Mini**, reflecting that it was written in Catalan, uses the **GPL v3 license**, and includes compatibility and technical details suited for GitHub.  
